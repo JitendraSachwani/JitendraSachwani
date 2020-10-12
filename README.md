@@ -1,17 +1,3 @@
-<style>
-.post{
-    display:flex;
-    flex-direction:column;
-}
-
-.postImage{
-    width: 50%;
-}
-
-</style>
-
-<!-- End StyleSheet -->
-
 <!-- [ -->
 
 ![Jitendra Header](https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/readme_header.jpg)
@@ -67,15 +53,17 @@ Interested in Collaborating on My Projects? Click <a href="https://github.com/st
 
 ### 📰 Top Posts
 
-<div class="post">
+<div class="allPosts" style=" display:flex; flex-direction:column;">
 
-<div class="postBody">
+<!-- Begin Post -->
+<div class="post" style="display:flex;">
 
-<p class="postPara">
-    <a href="#">
-        <img class="postImage" align='right' src="https://waylonwalker.com/latest.png?raw=true" style="margin: 10px">
-    </a>
-</p>
+<div style="margin: 10px;">
+
+<a href="#">
+    <img class="postImage" src="https://waylonwalker.com/latest.png?raw=true" >
+</a>
+</div>
 
 <div class="postContent">
 
@@ -86,18 +74,10 @@ I write about things I am familiar with, things that trip up folks that I mentor
 </div>
 
 </div>
+<!-- !End Post -->
 
-</div>
-
-<div class="post">
-
-<div class="postBody">
-
-<p class="postPara">
-    <a href="#">
-        <img class="postImage" align='left' src="https://waylonwalker.com/latest.png?raw=true" style="margin: 10px">
-    </a>
-</p>
+<!-- Begin Post -->
+<div class="post" style="display:flex;">
 
 <div class="postContent">
 
@@ -107,7 +87,15 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 </div>
 
+<div style="margin: 10px;">
+
+<a href="#">
+    <img class="postImage" src="https://waylonwalker.com/latest.png?raw=true" >
+</a>
 </div>
+
+</div>
+<!-- !End Post -->
 
 </div>
 
