@@ -43,13 +43,11 @@ Hey there <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraS
 
 
 @TODO: Add projects here
-I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example.
-
 
 
 <h3 align="center">
 
-Interested in Collaborating on My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a>
+Interested in Collaborating on My Projects? Click <a href="https://github.com/JitendraSachwani/JitendraSachwani/blob/main/PROJECTS.md">here <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/handshake.gif" width="30px"> </a>
 
 </h3>
 
