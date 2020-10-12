@@ -55,53 +55,29 @@ Interested in Collaborating on My Projects? Click <a href="https://github.com/st
 
 ---
 
-### 📰 Top Posts
+### 📰 Blog Posts
 
-<div class="allPosts" style=" display:flex; flex-direction:column;">
+<!-- Begin All Posts -->
 
 <!-- Begin Post -->
-<div class="post" style="display:flex;">
+<!-- <div class="post" style="display:flex;"> -->
 
-<div style="margin: 10px;">
-
+<p>
 <a href="#">
-    <img class="postImage" src="https://waylonwalker.com/latest.png?raw=true" >
+    <img width="400"  align="right" src="https://waylonwalker.com/latest.png?raw=true" >
 </a>
-</div>
-
-<div class="postContent">
+</p>
 
 I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning. Day to day I make things with **data** using **python** and **javascript**.
 
-</div>
 
-</div>
+<!-- </div> -->
 <!-- !End Post -->
 
-<!-- Begin Post -->
-<div class="post" style="display:flex;">
 
-<div class="postContent">
-
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
-
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning. Day to day I make things with **data** using **python** and **javascript**.
-
-</div>
-
-<div style="margin: 10px;">
-
-<a href="#">
-    <img class="postImage" src="https://waylonwalker.com/latest.png?raw=true" >
-</a>
-</div>
-
-</div>
-<!-- !End Post -->
-
-</div>
+<!-- !End All Posts -->
 
 <details>
  <summary><strong>other favorite posts</strong></summary>
