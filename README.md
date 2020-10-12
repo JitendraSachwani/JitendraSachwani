@@ -41,7 +41,11 @@ Hey there <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraS
 
 ### 🌱💻🌱 My Digital Garden
 
+
+@TODO: Add projects here
 I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example.
+
+
 
 <h3 align="center">
 
@@ -101,6 +105,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 <details>
  <summary><strong>other favorite posts</strong></summary>
+ 
  <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
  <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
  <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
