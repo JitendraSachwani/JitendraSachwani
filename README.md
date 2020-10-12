@@ -53,7 +53,7 @@ Interested in Collaborating on My Projects? Click <a href="https://github.com/Ji
 
 ---
 
-### 📰 Blog Posts
+### <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/blog.gif" width="30px"> Blog Posts
 
 <!-- Begin All Posts -->
 
