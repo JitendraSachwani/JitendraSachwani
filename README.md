@@ -8,7 +8,7 @@
 <a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/devTo.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/jitendra.sachwani"><img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_Jitendra_S"><img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/jitu_honorificabilitudinitas"><img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/jitu_honorificabilitudinitas"><img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jitendra-sachwani/"><img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/linkedin.png?raw=true"></a>
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/buy-me-a-coffee.png?raw=true"></a>
 </p>
