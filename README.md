@@ -10,7 +10,7 @@
 ## <p align="center">Hello there, Human <img src="https://jitendra-sachwani-ghctr.glitch.me/count.svg"> <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/hi_r.gif"></p>
 
 <!-- Begin Description -->
-I am **Jitendra Sachwani**, people call me **Jitu**, a highly resourceful computer programmer and well-rounded IT professional.Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box. Have a solid understanding of technologies required for the development and deployment of highly available and scalable applications.
+I am **Jitendra Sachwani**, people call me **Jitu**, a highly resourceful computer programmer and well-rounded IT professional.Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/cleancode_r.png" width="30px">. Always questioning the status quo and wanting to improve. Able and willing to think outside the box. Have a solid understanding of technologies required for the development and deployment of highly available and scalable applications.
 @TODO Add description here [with](https://www.google.com) or without links.
 
 <!-- End Description -->
