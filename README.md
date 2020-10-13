@@ -93,7 +93,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 </p>
 
 ---
-<h3>Repositories</h3>
+<h2>Repositories</h2>
 
 ### Repositories 
 ---
