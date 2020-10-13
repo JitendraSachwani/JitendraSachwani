@@ -9,39 +9,6 @@
 <!-- Visitor Counter available @ https://glitch.com/edit/#!/jitendra-sachwani-ghctr -->
 ## <p align="center">Hello there, Human <img src="https://jitendra-sachwani-ghctr.glitch.me/count.svg"> <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/hi_r.gif"></p>
 
-<table border="0" width="100%">
-
-<tr>
-
-<td><b style="font-size:30px">📚 Currently reading these </b></td>
-<td><b style="font-size:30px">📚 Currently listening to </b></td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<details>
-<summary><strong>completed reads</strong></summary>
-<p>
-
-~~abc~~
-
-</p>
-
-<p>abc</p>
-<p>abc</p>
-</details>
-
-</td>
-
-<td>Lorem ipsum ...</td>
-
-</tr>
-</table>
-
-
 <!-- Begin Description -->
 @TODO Add description here [with](https://www.google.com) or without links.
 
@@ -133,11 +100,11 @@ Interested in Collaborating on My Projects? Click <a href="https://github.com/Ji
 ##
 
 <!-- Begin Stats -->
-<div>
+<div align="center">
 
-<img align=top height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<img align="top" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 
-<img align=top height="175" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<img align="top" height="175" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 
 <div>
 
@@ -149,34 +116,41 @@ Interested in Collaborating on My Projects? Click <a href="https://github.com/Ji
 
 ### <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/blog.gif" width="30px"> Blog Posts
 
-<!-- Begin All Posts -->
-
-<!-- Begin Post -->
-<!-- <div class="post" style="display:flex;"> -->
+<!-- Begin Blog Image -->
 
 <p>
 <a href="#">
-    <img width="400"  align="right" src="https://waylonwalker.com/latest.png?raw=true" >
+<img width="400"  align="right" src="https://waylonwalker.com/latest.png?raw=true" >
 </a>
 </p>
+
+<!-- End Blog Image -->
+
+
+<!-- Begin Blog Desc -->
 
 I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning. Day to day I make things with **data** using **python** and **javascript**.
 
-<!-- </div> -->
-<!-- !End Post -->
+<!-- End Blog Desc -->
 
-<!-- !End All Posts -->
+
+<!-- Begin Other Blogs -->
 
 <details>
- <summary><strong>other favorite posts</strong></summary>
- 
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
- 
+
+<summary><strong> Other favorite posts </strong></summary>
+
+<a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
+
+<a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
+
+<a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
+
 </details>
+
+<!-- End Other Blogs -->
 
 <p>
 
@@ -184,23 +158,49 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 </p>
 
+---
+
+
+<!-- Begin Reading Listening Table 
+
+##
+
+<table border="0" width="100%">
+
+<tr>
+
+<td><b style="font-size:30px">📚 Currently reading these </b></td>
+<td><b style="font-size:30px">📚 Currently listening to </b></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<details>
+<summary><strong>completed reads</strong></summary>
+<p>
+
+~~abc~~
+
+</p>
+
+<p>abc</p>
+<p>abc</p>
+</details>
+
+</td>
+
+<td>Lorem ipsum ...</td>
+
+</tr>
+</table>
+
+---
+
+<!-- End Reading Listening Table -->
+
 ## <p align="center">Repositories</p>
 
 <p align="right"><a href="https://github.com/JitendraSachwani?tab=repositories"> Show More 🔎 </a></p>
-
-
-##
-<!--
-**JitendraSachwani/JitendraSachwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
