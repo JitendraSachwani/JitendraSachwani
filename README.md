@@ -61,29 +61,20 @@ Hey there <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraS
 @TODO: Add projects here
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/code.gif?raw=true" width="500" height="320" />
+
 @TODO: Add projects here
+
 @TODO: Add projects here
+
 @TODO: Add projects here
+
 @TODO: Add projects here
-@TODO: Add projects here
-@TODO: Add projects here
-@TODO: Add projects here
-@TODO: Add projects here
-@TODO: Add projects here
-@TODO: Add projects here
+
 @TODO: Add projects here
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+@TODO: Add projects here
+
 <br>
 <br>
 <br>
