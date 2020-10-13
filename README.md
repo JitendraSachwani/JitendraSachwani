@@ -4,11 +4,7 @@
 
 <!-- ](https://some-url.dev/) -->
 
-<h3 align='center'>
-
-Hey there <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/wave.gif" width="30px">
-
-</h3>
+## <p align="center">Hey there <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/wave.gif" width="30px"></p>
 
 @TODO Add description here [with](https://www.google.com) or without links.
 
@@ -129,12 +125,13 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
+##
+
 <div>
 
 <img align=top height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 
 <img align=top height="175" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-
 
 <div>
 
