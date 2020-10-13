@@ -95,7 +95,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 ---
 ## Repositories 
 
-<p align="right"><a href="?tab=repositories">Show All</a></p>
+<p align="right"><a href="https://github.com/JitendraSachwani?tab=repositories">Show All</a></p>
 
 <!--
 **JitendraSachwani/JitendraSachwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
