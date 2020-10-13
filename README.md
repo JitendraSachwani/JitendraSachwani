@@ -6,10 +6,46 @@
 
 <!-- ](https://some-url.dev/) -->
 
-## <p align="center">Hello there, Human <img src="https://scandalous-sulfuric-mass.glitch.me/count.svg"> <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/hi_r.gif" width="30px"></p>
+<!-- Visitor Counter available @ https://glitch.com/edit/#!/jitendra-sachwani-ghctr -->
+## <p align="center">Hello there, Human <img src="https://jitendra-sachwani-ghctr.glitch.me/count.svg"> <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/hi_r.gif"></p>
 
+<table border="0" width="100%">
+
+<tr>
+
+<td><b style="font-size:30px">📚 Currently reading these </b></td>
+<td><b style="font-size:30px">📚 Currently listening to </b></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<details>
+<summary><strong>completed reads</strong></summary>
+<p>
+
+~~abc~~
+
+</p>
+
+<p>abc</p>
+<p>abc</p>
+</details>
+
+</td>
+
+<td>Lorem ipsum ...</td>
+
+</tr>
+</table>
+
+
+<!-- Begin Description -->
 @TODO Add description here [with](https://www.google.com) or without links.
 
+<!-- End Description -->
 
 ###
 
@@ -55,6 +91,8 @@
 <!-- End Social -->
 
 ---
+
+### 🛠 Technologies & Tools
 
 @TODO Add Stack Here
 
@@ -150,6 +188,8 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 <p align="right"><a href="https://github.com/JitendraSachwani?tab=repositories"> Show More 🔎 </a></p>
 
+
+##
 <!--
 **JitendraSachwani/JitendraSachwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
