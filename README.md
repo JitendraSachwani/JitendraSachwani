@@ -106,7 +106,7 @@ Interested in Collaborating on My Projects? Click <a href="https://github.com/Ji
 
 <img align="top" height="175" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 
-<div>
+</div>
 
 <!-- End Stats  -->
 
@@ -156,14 +156,18 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 <!-- End Other Blogs -->
 
+
+<!-- Begin Blog Extra End Line -->
+
 <p>
 
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
 </p>
 
----
+<!-- End Blog Extra End Line -->
 
+---
 
 <!-- Begin Reading Listening Table 
 
