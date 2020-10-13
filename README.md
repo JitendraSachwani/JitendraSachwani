@@ -6,7 +6,7 @@
 
 <!-- ](https://some-url.dev/) -->
 
-## <p align="center">Hey there <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/wave.gif" width="30px"></p>
+## <p align="center">Hello there, Human <img src="https://scandalous-sulfuric-mass.glitch.me/count.svg"> <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/hi_r.gif" width="30px"></p>
 
 @TODO Add description here [with](https://www.google.com) or without links.
 
