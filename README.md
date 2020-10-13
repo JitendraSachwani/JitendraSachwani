@@ -12,30 +12,45 @@ Hey there <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraS
 
 @TODO Add description here [with](https://www.google.com) or without links.
 
+<!-- Begin Social -->
 <p align='center'>
-    <a href="https://dev.to/">
-        <img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/devTo.png">
-    </a><!-- TODO -->
-    &nbsp;&nbsp;
-    <a href="https://www.facebook.com/jitendra.sachwani">
-        <img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/facebook.png?raw=true">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/_Jitendra_S">
-        <img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/twitter.png?raw=true">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://instagram.com/jitu_honorificabilitudinitas">
-        <img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/instagram.png?raw=true">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/jitendra-sachwani/">
-        <img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/linkedin.png?raw=true">
-    </a>
-    <a href="https://www.buymeacoffee.com/">
-        <img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/buy-me-a-coffee.png?raw=true">
-    </a><!-- TODO -->
+
+<!--  -->
+<a href="https://dev.to/">
+<img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/devTo.png">
+</a><!-- TODO -->
+&nbsp;&nbsp;
+
+<!--  -->
+<a href="https://www.facebook.com/jitendra.sachwani">
+<img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/facebook.png?raw=true">
+</a>
+&nbsp;&nbsp;
+
+<!--  -->
+<a href="https://twitter.com/_Jitendra_S">
+<img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/twitter.png?raw=true">
+</a>
+&nbsp;&nbsp;
+
+<!--  -->
+<a href="https://instagram.com/jitu_honorificabilitudinitas">
+<img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/instagram.png?raw=true">
+</a>
+&nbsp;&nbsp;
+
+<!--  -->
+<a href="https://www.linkedin.com/in/jitendra-sachwani/">
+<img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/linkedin.png?raw=true">
+</a>
+
+<!--  -->
+<a href="https://www.buymeacoffee.com/">
+<img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/buy-me-a-coffee.png?raw=true">
+</a><!-- TODO -->
+
 </p>
+<!-- End Social -->
 
 ---
 
@@ -43,7 +58,35 @@ Hey there <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraS
 
 
 @TODO: Add projects here
+@TODO: Add projects here
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/code.gif?raw=true" width="500" height="320" />
+@TODO: Add projects here
+@TODO: Add projects here
+@TODO: Add projects here
+@TODO: Add projects here
+@TODO: Add projects here
+@TODO: Add projects here
+@TODO: Add projects here
+@TODO: Add projects here
+@TODO: Add projects here
+@TODO: Add projects here
+@TODO: Add projects here
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="center">
 
@@ -93,9 +136,9 @@ I write about things I am familiar with, things that trip up folks that I mentor
 </p>
 
 ---
-## Repositories 
+## <p align="center">Repositories</p>
 
-<p align="right"><a href="https://github.com/JitendraSachwani?tab=repositories">Show All</a></p>
+<p align="right"><a href="https://github.com/JitendraSachwani?tab=repositories"> Show More 🔎 </a></p>
 
 <!--
 **JitendraSachwani/JitendraSachwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
