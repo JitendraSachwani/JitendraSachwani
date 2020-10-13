@@ -1,3 +1,5 @@
+@TODO Add right aligned gmail link here 
+
 <!-- [ -->
 
 ![Jitendra Header](https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/readme_header.jpg)
@@ -8,12 +10,15 @@
 
 @TODO Add description here [with](https://www.google.com) or without links.
 
+
+###
+
 <!-- Begin Social -->
 <p align='center'>
 
 <!--  -->
 <a href="https://dev.to/">
-<img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/devTo.png">
+<img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/devto.png">
 </a><!-- TODO -->
 &nbsp;&nbsp;
 
@@ -46,12 +51,16 @@
 </a><!-- TODO -->
 
 </p>
+
 <!-- End Social -->
 
 ---
 
-### 🌱💻🌱 My Digital Garden
+@TODO Add Stack Here
 
+---
+
+### 🌱💻🌱 My Digital Garden
 
 @TODO: Add projects here
 @TODO: Add projects here
@@ -68,7 +77,6 @@
 
 @TODO: Add projects here
 
-
 @TODO: Add projects here
 
 <br>
@@ -81,6 +89,23 @@
 Interested in Collaborating on My Projects? Click <a href="https://github.com/JitendraSachwani/JitendraSachwani/blob/main/PROJECTS.md">here <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/handshake.gif" width="30px"> </a>
 
 </h3>
+
+---
+
+##
+
+<!-- Begin Stats -->
+<div>
+
+<img align=top height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+
+<img align=top height="175" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+
+<div>
+
+<!-- End Stats  -->
+
+
 
 ---
 
@@ -101,10 +126,8 @@ I write regular blog posts, most of which you will find on my personal website [
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning. Day to day I make things with **data** using **python** and **javascript**.
 
-
 <!-- </div> -->
 <!-- !End Post -->
-
 
 <!-- !End All Posts -->
 
@@ -122,20 +145,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
 </p>
-
----
-
-##
-
-<div>
-
-<img align=top height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-
-<img align=top height="175" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-
-<div>
-
----
 
 ## <p align="center">Repositories</p>
 
