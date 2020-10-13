@@ -110,7 +110,11 @@ Interested in Collaborating on My Projects? Click <a href="https://github.com/Ji
 
 <!-- End Stats  -->
 
+<!-- Begin Trophies -->
 
+@TODO: Trophies
+
+<!-- End Trophies -->
 
 ---
 
