@@ -18,7 +18,7 @@
 
 <!--  -->
 <a href="https://dev.to/">
-<img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/devto.png">
+<img height="30" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/icons/devto_r.png">
 </a><!-- TODO -->
 &nbsp;&nbsp;
 
