@@ -209,6 +209,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 <!-- End Reading Listening Table -->
 
-## <p align="center">Repositories</p>
+## <p align="center">🗃️ Repositories 🗃️</p>
 
 <p align="right"><a href="https://github.com/JitendraSachwani?tab=repositories"> Show More 🔎 </a></p>
