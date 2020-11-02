@@ -61,33 +61,52 @@ I am **Jitendra Sachwani**, people call me **Jitu**, a tech enthusiast and a hig
 
 ### 🛠 Technologies & Tools
 
-@TODO Add Stack Here
 
----
-
-### 🌱💻🌱 My Digital Garden
-
-@TODO: Add projects here
-@TODO: Add projects here
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/code.gif?raw=true" width="500" height="320" />
 
-@TODO: Add projects here
-
-@TODO: Add projects here
-
-@TODO: Add projects here
-
-@TODO: Add projects here
-
-@TODO: Add projects here
-
-@TODO: Add projects here
+<br>
+@TODO Add Stack Here
 
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+
+
+<!--
+
+---
+
+ ### 🌱💻🌱 My Digital Garden
+
+@TODO: Add projects here
+
+@TODO: Add projects here
+
+@TODO: Add projects here
+
+@TODO: Add projects here
+
+@TODO: Add projects here
+
+@TODO: Add projects here
+
+@TODO: Add projects here
+
+@TODO: Add projects here
+
+-->
 
 <h3 align="center">
 
