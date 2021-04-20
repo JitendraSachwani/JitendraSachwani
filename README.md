@@ -1,4 +1,8 @@
+<!-- Start Top Links 
+
 @TODO Add right aligned gmail link here 
+
+<!-- End Top Links -->
 
 <!-- [ -->
 
@@ -57,16 +61,30 @@ I am **Jitendra Sachwani**, people call me **Jitu**, a tech enthusiast and a hig
 
 <!-- End Social -->
 
+<!-- Start Tech Stack Title -->
+
 ---
 
 ### 🛠 Technologies & Tools
 
+<!-- End Tech Stack Title -->
 
+<!-- Start Tech Stack Image -->
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/code.gif?raw=true" width="500" height="320" />
 
+<!-- End Tech Stack Image -->
+
+
+<!-- Start Tech Stack -->
+
 <br>
+
+<!-- Start Tech Stack 
+
 @TODO Add Stack Here
+
+<!-- End Tech Stack -->
 
 <br>
 <br>
@@ -83,6 +101,7 @@ I am **Jitendra Sachwani**, people call me **Jitu**, a tech enthusiast and a hig
 <br>
 <br> 
 
+<!-- End Tech Stack -->
 
 <!--
 
