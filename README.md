@@ -128,16 +128,20 @@ Interested in Collaborating on My Projects? Click <a href="https://github.com/Ji
 </div>
 
 <!-- End Stats  -->
-<!--
-<!-- Begin Trophies -->
+
+<!-- Begin Trophies 
 
 @TODO: Trophies
 
 <!-- End Trophies -->
 
+<!-- Begin Blog Title
+
 ---
 
 ### <img src="https://raw.githubusercontent.com/JitendraSachwani/JitendraSachwani/main/assets/gifs/blog.gif" width="30px"> Blog Posts
+
+<!-- End Blog Title -->
 
 <!-- Begin Blog Image -->
 
@@ -150,7 +154,7 @@ Interested in Collaborating on My Projects? Click <a href="https://github.com/Ji
 <!-- End Blog Image -->
 
 
-<!-- Begin Blog Desc -->
+<!-- Begin Blog Desc 
 
 I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
 
@@ -159,7 +163,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 <!-- End Blog Desc -->
 
 
-<!-- Begin Other Blogs -->
+<!-- Begin Other Blogs 
 
 <details>
 
@@ -176,13 +180,13 @@ I write about things I am familiar with, things that trip up folks that I mentor
 <!-- End Other Blogs -->
 
 
-<!-- Begin Blog Extra End Line -->
+<!-- Begin Blog Extra End Line 
 
 <p>
 
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
-</p -->
+</p>
 
 <!-- End Blog Extra End Line -->
 
