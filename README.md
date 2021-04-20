@@ -128,7 +128,7 @@ Interested in Collaborating on My Projects? Click <a href="https://github.com/Ji
 </div>
 
 <!-- End Stats  -->
-
+<!--
 <!-- Begin Trophies -->
 
 @TODO: Trophies
@@ -182,7 +182,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
-</p>
+</p -->
 
 <!-- End Blog Extra End Line -->
 
